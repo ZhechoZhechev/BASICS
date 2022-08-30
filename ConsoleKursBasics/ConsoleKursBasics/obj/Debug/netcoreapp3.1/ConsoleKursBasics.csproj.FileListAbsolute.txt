@@ -1,0 +1,14 @@
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\bin\Debug\netcoreapp3.1\ConsoleKursBasics.exe
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\bin\Debug\netcoreapp3.1\ConsoleKursBasics.deps.json
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\bin\Debug\netcoreapp3.1\ConsoleKursBasics.runtimeconfig.json
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\bin\Debug\netcoreapp3.1\ConsoleKursBasics.runtimeconfig.dev.json
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\bin\Debug\netcoreapp3.1\ConsoleKursBasics.dll
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\bin\Debug\netcoreapp3.1\ConsoleKursBasics.pdb
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.csproj.AssemblyReference.cache
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.AssemblyInfoInputs.cache
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.AssemblyInfo.cs
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.csproj.CoreCompileInputs.cache
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.dll
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.pdb
+C:\Users\zhech\source\repos\ConsoleKursBasics\ConsoleKursBasics\obj\Debug\netcoreapp3.1\ConsoleKursBasics.genruntimeconfig.cache
